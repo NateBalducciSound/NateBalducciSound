@@ -17,7 +17,7 @@ Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](https://g
 ### `stack`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=unity,unreal,godot,cs,cpp,python,js,html&theme=dark" />          
+<img src="https://skillicons.dev/icons?i=unity,unreal,godot,cs,cpp,js,html&theme=dark" />          
 
 <br/>
 <br/>
