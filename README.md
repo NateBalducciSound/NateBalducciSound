@@ -1,5 +1,5 @@
    <div align="center">                                                          
- <img src="https://readme-typing-svg.demolab.com?size=24&duration=3500&pause=1000&color=DF9C67&center=tr  ue&vCenter=true&width=600&lines=Nathan+Balducci;Game+Developer+%7C+Audio+Programmer;Unity+%C2%B7+Unreal  +%C2%B7+Godot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3500&color=DF9C67&c  enter=true&vCenter=true&width=600&lines=Nathan+Balducci;Game+Developer+%7C+Audio+Programmer;Unity+%C2%B  7+Unreal+%C2%B7+Godot" />
                                                                                                                                                             <br/>
                                              
   <br/>                                                                                                                    
