@@ -5,21 +5,16 @@
                                              
 <br/>                                                                                                            
 
-[![Website](https://img.shields.io/badge/website-2b1f14?style=for-the-badge&logo=globe&logoColor=DF9C67)](https://www.hsdx.am)
-  
+[![Website](https://img.shields.io/badge/website-2b1f14?style=for-the-badge&logo=globe&logoColor=DF9C67)](https://www.hsdx.am)  
 [![GitHub](https://img.shields.io/badge/github-2b1f14?style=for-the-badge&logo=github&logoColor=52E0B2)](https://github.com/natebalduccisound)                                                           
 </div>                                                                                                            
----
-
 <div align="center">                                                                                               
-*// game dev · audio programmer*
 
 </div>
                                                                                                             
 ### `> about`                                                                                         
 I build games and the audio systems inside them. My work sits at the intersection of technical design and immersive experience — whether that's writing engine-level audio code, architecting game systems, or leading a team from prototype to release.                                                                       
-Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](#) — a game project focused on [brief one-liner about the game].
-                                                                                                           ---             
+Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](#) — a game project focused on [Youth Patient comfortability using Distraction Therapy and Augmented Reality].    
 
 ### `> stack`
 
