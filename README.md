@@ -25,8 +25,13 @@ Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](#) — a 
 | Domain | Tools |
 |---|---|
 | Game Engines | Unity · Unreal Engine · Godot |
-| Audio | FMOD · Wwise · C# DSP · GDScript Audio |                                                | Languages | C# · C++ · GDScript · Python · JS · HTML |                                                 | Design | Systems Architecture · Software Lead · Prototyping |                                                                                                                                                                                                                                  ---                                                                                                              
-### `> featured`                                                                                     
+| Audio | FMOD · Wwise · C# DSP · GDScript Audio |
+| Languages | C# · C++ · GDScript · Python · JS · HTML |
+| Design | Systems Architecture · Software Lead · Prototyping |
+
+---
+
+### `> featured`                                                                                   
 <div align="center">                                                                                               
 [![Healthy Zoo](https://github-readme-stats.vercel.app/api/pin/?username=natebalduccisound&repo=healthyzoo&bg_color=1a1108&title_color=DF9C67&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://github.com/natebalduccisound/healthyzoo)                                                                 
 </div>
