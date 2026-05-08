@@ -4,6 +4,7 @@
                                              
   <br/>                                                                                                                    
   [![Website](https://img.shields.io/badge/website-2b1f14?style=for-the-badge&logo=firefoxbrowser&logoColor=DF9C67)](https://hsdx.am)
+  
   [![GitHub](https://img.shields.io/badge/github-2b1f14?style=for-the-badge&logo=github&logoColor=52E0B2)](https://github.com/natebalduccisound)                                                                      
   </div>                                                                                                                   
   ---
