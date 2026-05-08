@@ -1,5 +1,6 @@
    <div align="center">                                                          
-<img src="https://readme-   typing-svg.demolab.com?font=Courier+New&size=28&duration=3500&pause=1000&col  or=DF9C67&center=true&vCenter=true&width=600&lines=Nathan+Balducci;Game+Developer+%7C+Audio+Programmer;  Unity+%C2%B7+Unreal+%C2%B7+Godot" alt="Typing SVG" />                                                                                                                                                             <br/>
+ <img src="https://readme-typing-svg.demolab.com?size=24&duration=3500&pause=1000&color=DF9C67&center=tr  ue&vCenter=true&width=600&lines=Nathan+Balducci;Game+Developer+%7C+Audio+Programmer;Unity+%C2%B7+Unreal  +%C2%B7+Godot" alt="Typing SVG" />
+                                                                                                                                                            <br/>
                                              
   <br/>                                                                                                                    
   [![Website](https://img.shields.io/badge/website-2b1f14?style=for-the-badge&logo=firefoxbrowser&logoCol  or=DF9C67)](https://hsdx.am)
