@@ -1,17 +1,17 @@
-                                                                                                           <div align="center">                                                          
-                                                                                                           <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=28&duration=3500&pause=1000&col  or=DF9C67&center=true&vCenter=true&width=600&lines=Nathan+Balducci;Game+Developer+%7C+Audio+Programmer;  Unity+%C2%B7+Unreal+%C2%B7+Godot" alt="Typing SVG" />                                                                                                                                                             <br/>
-
-  *crafting worlds, sounds, and systems — one commit at a time*                                             
+   <div align="center">                                                          
+<img src="https://readme-   typing-svg.demolab.com?font=Courier+Prime&size=28&duration=3500&pause=1000&col  or=DF9C67&center=true&vCenter=true&width=600&lines=Nathan+Balducci;Game+Developer+%7C+Audio+Programmer;  Unity+%C2%B7+Unreal+%C2%B7+Godot" alt="Typing SVG" />                                                                                                                                                             <br/>
+                                             
   <br/>                                                                                                                    
-  [![Website](https://img.shields.io/badge/website-2b1f14?style=for-the-badge&logo=firefoxbrowser&logoCol  or=DF9C67)](https://www.hsdx.am)
+  [![Website](https://img.shields.io/badge/website-2b1f14?style=for-the-badge&logo=firefoxbrowser&logoCol  or=DF9C67)](https://hsdx.am)
   [![GitHub](https://img.shields.io/badge/github-2b1f14?style=for-the-badge&logo=github&logoColor=52E0B2)  ](https://github.com/natebalduccisound)                                                                      
   </div>                                                                                                                   
   ---
 
-  <div align="center">
+  <div align="center">                                                                                                     
+  *// game dev · audio programmer*
 
-  // game dev · audio programmer · systems thinker                                                          
-  </div>                                                                                                                   
+  </div>
+                                                                                                                  
   ### `> about`                                                                                             
   I build games and the audio systems inside them. My work sits at the intersection of technical design    and immersive experience — whether that's writing engine-level audio code, architecting game systems,
   or leading a team from prototype to release.                                                                             
