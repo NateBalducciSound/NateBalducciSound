@@ -8,13 +8,13 @@
 
 </div>                                                                                                            
 
-### `> about`
+### `about`
 
 I build games and the audio systems inside them. My work sits at the intersection of technical design and immersive experience — whether that's writing engine-level audio code, architecting game systems, or leading a team from prototype to release.                                                                       
 
 Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](https://github.com/NateBalducciSound/HealthyZoo) — a game project focused on Youth Patient comfortability using Distraction Therapy and Augmented Reality.
 
-### `> stack`
+### `stack`
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot,cs,cpp,python,js,html&theme=dark" />          
@@ -33,22 +33,22 @@ Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](https://g
   </tr>
   <tr>
     <td align="center">Audio</td>
-    <td align="center">FMOD · Wwise · C# DSP · GDScript Audio</td>
+    <td align="center">Wwise · C# DSP · GDScript Audio</td>
   </tr>
   <tr>
     <td align="center">Languages</td>
-    <td align="center">C# · C++ · GDScript · Python · JS · HTML</td>
+    <td align="center">C# · C++ · GDScript · JS · HTML</td>
   </tr>
   <tr>
     <td align="center">Design</td>
-    <td align="center">Systems Architecture · Software Lead · Prototyping</td>
+    <td align="center">Game Design Systems · Architecture · Software Lead · Prototyping</td>
   </tr>
 </table>
 </div>
 
 ---
 
-### `> featured`
+### `featured`
 
 [![Healthy Zoo](https://github-readme-stats.vercel.app/api/pin/?username=NateBalducciSound&repo=HealthyZoo&bg_color=1a1108&title_color=f49c44&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://github.com/NateBalducciSound/HealthyZoo)
 
