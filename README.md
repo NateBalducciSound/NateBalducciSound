@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=52E0B2&height=120&section=header&text=Nathan%20Balducci&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Audio%20Programmer&descAlignY=60&descColor=DF9C67" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=52E0B2&height=120&section=header&text=Nathan%20Balducci&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Audio%20Programmer&descAlignY=60&descColor=f49c44" />
 <br/>
 <br/>
 
-[![Website](https://img.shields.io/badge/website-2b1f14?style=for-the-badge&logo=globe&logoColor=DF9C67)](https://www.hsdx.am)  
-[![GitHub](https://img.shields.io/badge/github-2b1f14?style=for-the-badge&logo=github&logoColor=52E0B2)](https://github.com/natebalduccisound)                                                           
+[![Website](https://img.shields.io/badge/website-2b1f14?style=for-the-badge&logo=globe&logoColor=f49c44)](https://www.hsdx.am) [![GitHub](https://img.shields.io/badge/github-2b1f14?style=for-the-badge&logo=github&logoColor=52E0B2)](https://github.com/NateBalducciSound)                                                           
 
 </div>                                                                                                            
 
@@ -51,11 +50,7 @@ Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](https://g
 
 ### `> featured`
 
-<div align="center">
-
-[![Healthy Zoo](https://github-readme-stats.vercel.app/api/pin/?username=NateBalducciSound&repo=HealthyZoo&theme=dark)](https://github.com/NateBalducciSound/HealthyZoo)
-
-</div>
+[![Healthy Zoo](https://github-readme-stats.vercel.app/api/pin/?username=NateBalducciSound&repo=HealthyZoo&bg_color=1a1108&title_color=f49c44&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://github.com/NateBalducciSound/HealthyZoo)
 
 ---
 
