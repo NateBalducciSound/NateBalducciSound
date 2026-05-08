@@ -1,5 +1,5 @@
    <div align="center">                                                          
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DF9C67&height=120&section=header&text  =Nathan%20Balducci&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20  %7C%20Audio%20Programmer&descAlignY=60&descColor=52E0B2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DF9C67&height=120&section=header&text=Nathan%20Balducci&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Audio%20Programmer&descAlignY=60&descColor=52E0B2" />
                                                                                                                                                             <br/>
                                              
   <br/>                                                                                                                    
