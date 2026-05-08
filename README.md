@@ -1,27 +1,25 @@
-<div align="center">                                                              
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DF9C67&height=120&section=header&text=Nathan%20Balducci&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Audio%20Programmer&descAlignY=60&descColor=52E0B2" />
 <br/>
-                                             
-<br/>                                                                                                            
+<br/>
 
 [![Website](https://img.shields.io/badge/website-2b1f14?style=for-the-badge&logo=globe&logoColor=DF9C67)](https://www.hsdx.am)  
 [![GitHub](https://img.shields.io/badge/github-2b1f14?style=for-the-badge&logo=github&logoColor=52E0B2)](https://github.com/natebalduccisound)                                                           
-</div>                                                                                                            
-<div align="center">                                                                                               
 
-</div>
-                                                                                                            
-### `> about`                                                                                         
+</div>                                                                                                            
+
+### `> about`
+
 I build games and the audio systems inside them. My work sits at the intersection of technical design and immersive experience — whether that's writing engine-level audio code, architecting game systems, or leading a team from prototype to release.                                                                       
-Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](#) — a game project focused on [Youth Patient comfortability using Distraction Therapy and Augmented Reality].    
+
+Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](https://github.com/NateBalducciSound/HealthyZoo) — a game project focused on Youth Patient comfortability using Distraction Therapy and Augmented Reality.
 
 ### `> stack`
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot,cs,cpp,python,js,html&theme=dark" />          
-</div align="center">    
+</div>
 
 | Domain | Tools |
 |---|---|
@@ -53,4 +51,5 @@ Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](#) — a 
 
 ---
 
+<div align="center">
 *the forest remembers everything you build in it* </div>
