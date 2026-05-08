@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=52E0B2&height=120&section=header&text=Nathan%20Balducci&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Audio%20Programmer&descAlignY=60&descColor=f49c44" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=52E0B2&height=120&section=header&text=Nate%20Balducci&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Audio%20Programmer&descAlignY=60&descColor=f49c44" />
 <br/>
 <br/>
 
