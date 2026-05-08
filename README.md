@@ -37,7 +37,7 @@
 
   ### `> stats`                                                                                             
   <div align="center">                                                                                                     
-  <img height="160"                                                                                        src="https://github-readme-stats.vercel.app/api?username=nathanbalducci&show_icons=true&bg_color=1a1108  &title_color=DF9C67&text_color=999999&icon_color=52E0B2&border_color=3d2b1a&hide_border=false" />        <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanbalducci&la  yout=compact&bg_color=1a1108&title_color=DF9C67&text_color=999999&icon_color=52E0B2&border_color=3d2b1a  &hide_border=false" />
+  <img height="160"                                                                                        src="https://github-readme-stats.vercel.app/api?username=natebalduccisound&show_icons=true&bg_color=1a1108  &title_color=DF9C67&text_color=999999&icon_color=52E0B2&border_color=3d2b1a&hide_border=false" />        <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natebalduccisound&la  yout=compact&bg_color=1a1108&title_color=DF9C67&text_color=999999&icon_color=52E0B2&border_color=3d2b1a  &hide_border=false" />
                                                                                                            </div>          
 
   ---
