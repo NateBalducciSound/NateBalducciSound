@@ -32,22 +32,25 @@ Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](#) — a 
 
 ---
 
-### `> featured`                                                                                   
+### `> featured`
+
 <div align="center">
-  
-[![Healthy Zoo](https://github-readme-stats.vercel.app/api/pin?username=NateBalducciSound&repo=HealthyZoo&bg_color=1a1108&title_color=DF9C67&text_color=999999&icon_color=52E0B2&border_color=3d2b1a&v=1)](https://github.com/NateBalducciSound/HealthyZoo)                                                    
+
+[![Healthy Zoo](https://github-readme-stats.vercel.app/api/pin?username=NateBalducciSound&repo=HealthyZoo&bg_color=1a1108&title_color=DF9C67&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://github.com/NateBalducciSound/HealthyZoo)
+
 </div>
 
 ---
 
-### `> stats`                                                                                         
-<div align="center">                                                                                               
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=natebalduccisound&show_icons=true&bg_color=1a1108&title_color=DF9C67&text_color=999999&icon_color=52E0B2&border_color=3d2b1a&hide_border=false" />        
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natebalduccisound&layout=compact&bg_color=1a1108&title_color=DF9C67&text_color=999999&icon_color=52E0B2&border_color=3d2b1a&hide_border=false" />
-                                                                                                               </div>          
-
----
+### `> stats`
 
 <div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=NateBalducciSound&show_icons=true&bg_color=1a1108&title_color=DF9C67&text_color=999999&icon_color=52E0B2&border_color=3d2b1a&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=NateBalducciSound&layout=compact&bg_color=1a1108&title_color=DF9C67&text_color=999999&icon_color=52E0B2&border_color=3d2b1a&hide_border=false" />
+
+</div>
+
+---
 
 *the forest remembers everything you build in it* </div>
