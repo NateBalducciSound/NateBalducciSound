@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DF9C67&height=120&section=header&text=Nathan%20Balducci&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Audio%20Programmer&descAlignY=60&descColor=52E0B2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=52E0B2&height=120&section=header&text=Nathan%20Balducci&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Audio%20Programmer&descAlignY=60&descColor=DF9C67" />
 <br/>
 <br/>
 
@@ -19,14 +19,33 @@ Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](https://g
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot,cs,cpp,python,js,html&theme=dark" />          
-</div>
 
-| Domain | Tools |
-|---|---|
-| Game Engines | Unity · Unreal Engine · Godot |
-| Audio | FMOD · Wwise · C# DSP · GDScript Audio |
-| Languages | C# · C++ · GDScript · Python · JS · HTML |
-| Design | Systems Architecture · Software Lead · Prototyping |
+<br/>
+<br/>
+
+<table>
+  <tr>
+    <th align="center">Domain</th>
+    <th align="center">Tools</th>
+  </tr>
+  <tr>
+    <td align="center">Game Engines</td>
+    <td align="center">Unity · Unreal Engine · Godot</td>
+  </tr>
+  <tr>
+    <td align="center">Audio</td>
+    <td align="center">FMOD · Wwise · C# DSP · GDScript Audio</td>
+  </tr>
+  <tr>
+    <td align="center">Languages</td>
+    <td align="center">C# · C++ · GDScript · Python · JS · HTML</td>
+  </tr>
+  <tr>
+    <td align="center">Design</td>
+    <td align="center">Systems Architecture · Software Lead · Prototyping</td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -34,22 +53,13 @@ Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](https://g
 
 <div align="center">
 
-[![Healthy Zoo](https://github-readme-stats.vercel.app/api/pin?username=NateBalducciSound&repo=HealthyZoo&bg_color=1a1108&title_color=DF9C67&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://github.com/NateBalducciSound/HealthyZoo)
-
-</div>
-
----
-
-### `> stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=NateBalducciSound&show_icons=true&bg_color=1a1108&title_color=DF9C67&text_color=999999&icon_color=52E0B2&border_color=3d2b1a&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=NateBalducciSound&layout=compact&bg_color=1a1108&title_color=DF9C67&text_color=999999&icon_color=52E0B2&border_color=3d2b1a&hide_border=false" />
+[![Healthy Zoo](https://github-readme-stats.vercel.app/api/pin/?username=NateBalducciSound&repo=HealthyZoo&theme=dark)](https://github.com/NateBalducciSound/HealthyZoo)
 
 </div>
 
 ---
 
 <div align="center">
-*the forest remembers everything you build in it* </div>
+<br/>
+<em>the forest remembers everything you build in it</em>
+</div>
