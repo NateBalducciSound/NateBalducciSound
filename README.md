@@ -3,8 +3,8 @@
 
   *crafting worlds, sounds, and systems — one commit at a time*                                             
   <br/>                                                                                                                    
-  [![Website](https://img.shields.io/badge/website-2b1f14?style=for-the-badge&logo=firefoxbrowser&logoCol  or=DF9C67)](https://your-website.com)
-  [![GitHub](https://img.shields.io/badge/github-2b1f14?style=for-the-badge&logo=github&logoColor=52E0B2)  ](https://github.com/nathanbalducci)                                                                      
+  [![Website](https://img.shields.io/badge/website-2b1f14?style=for-the-badge&logo=firefoxbrowser&logoCol  or=DF9C67)](https://www.hsdx.am)
+  [![GitHub](https://img.shields.io/badge/github-2b1f14?style=for-the-badge&logo=github&logoColor=52E0B2)  ](https://github.com/natebalduccisound)                                                                      
   </div>                                                                                                                   
   ---
 
@@ -30,7 +30,7 @@
   | Audio | FMOD · Wwise · C# DSP · GDScript Audio |                                                       | Languages | C# · C++ · GDScript · Python · JS · HTML |                                                 | Design | Systems Architecture · Software Lead · Prototyping |                                                                                                                                                   ---                                                                                                                      
   ### `> featured`                                                                                          
   <div align="center">                                                                                                     
-  [![Healthy Zoo](https://github-readme-stats.vercel.app/api/pin/?username=nathanbalducci&repo=healthy-zo  o&bg_color=1a1108&title_color=DF9C67&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://  github.com/nathanbalducci/healthy-zoo)                                                                                   
+  [![Healthy Zoo](https://github-readme-stats.vercel.app/api/pin/?username=natebalduccisound&repo=healthyzo  o&bg_color=1a1108&title_color=DF9C67&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://  github.com/natebalducci/healthyzoo)                                                                                   
   </div>
 
   ---
