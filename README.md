@@ -48,10 +48,6 @@ Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](https://g
 
 ---
 
-### `featured`
-
-### `> featured`
-
 ### `> featured`
 
 [![Healthy Zoo](https://github-readme-stats.vercel.app/api/pin/?username=NateBalducciSound&repo=HealthyZoo&bg_color=1a1108&title_color=f49c44&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://github.com/NateBalducciSound/HealthyZoo) &nbsp;&nbsp;&nbsp;&nbsp; [![SAM Speech Generator](https://github-readme-stats.vercel.app/api/pin/?username=NateBalducciSound&repo=OpenFrameworksSamSpeechGenerator&bg_color=1a1108&title_color=f49c44&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://github.com/NateBalducciSound/OpenFrameworksSamSpeechGenerator)
