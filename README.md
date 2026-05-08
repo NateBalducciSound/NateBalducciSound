@@ -1,5 +1,5 @@
    <div align="center">                                                          
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3500&color=DF9C67&c  enter=true&vCenter=true&width=600&lines=Nathan+Balducci;Game+Developer+%7C+Audio+Programmer;Unity+%C2%B  7+Unreal+%C2%B7+Godot" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DF9C67&height=120&section=header&text  =Nathan%20Balducci&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20  %7C%20Audio%20Programmer&descAlignY=60&descColor=52E0B2" />
                                                                                                                                                             <br/>
                                              
   <br/>                                                                                                                    
