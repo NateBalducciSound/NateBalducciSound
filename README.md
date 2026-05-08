@@ -21,7 +21,8 @@ Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](#) — a 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot,cs,cpp,python,js,html&theme=dark" />          
-</div>                                                                                                            
+</div>    
+
 | Domain | Tools |
 |---|---|
 | Game Engines | Unity · Unreal Engine · Godot |
