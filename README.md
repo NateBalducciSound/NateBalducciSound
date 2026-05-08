@@ -41,7 +41,7 @@ Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](https://g
   </tr>
   <tr>
     <td align="center">Design</td>
-    <td align="center">Game Design Systems · Architecture · Software Lead · Prototyping</td>
+    <td align="center">Game Design · Systems Architecture · Software Lead · Prototyping</td>
   </tr>
 </table>
 </div>
