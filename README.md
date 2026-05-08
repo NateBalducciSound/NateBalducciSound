@@ -8,13 +8,13 @@
 
 </div>                                                                                                            
 
-### `> about`
+### `About`
 
 I build games and the audio systems inside them. My work sits at the intersection of technical design and immersive experience — whether that's writing engine-level audio code, architecting game systems, or leading a team from prototype to release.                                                                       
 
 Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](https://github.com/NateBalducciSound/HealthyZoo) — a game project focused on Youth Patient comfortability using Distraction Therapy and Augmented Reality. I am also currently developing [**WidowFlight**](https://github.com/NateBalducciSound/WidowFlight) — a narrative-driven, boardgame-style strategy game built in Godot.
 
-### `> stack`
+### `Stack`
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot,cs,cpp,js,html&theme=dark" />          
@@ -48,6 +48,6 @@ Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](https://g
 
 ---
 
-### `> featured`
+### `Featured`
 
-[![WidowFlight](https://github-readme-stats.vercel.app/api/pin/?username=NateBalducciSound&repo=WidowFlight&bg_color=1a1108&title_color=f49c44&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://github.com/NateBalducciSound/WidowFlight) &nbsp;&nbsp;&nbsp;&nbsp; [![Healthy Zoo](https://github-readme-stats.vercel.app/api/pin/?username=NateBalducciSound&repo=HealthyZoo&bg_color=1a1108&title_color=f49c44&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://github.com/NateBalducciSound/HealthyZoo) &nbsp;&nbsp;&nbsp;&nbsp; [![SAM Speech Generator](https://github-readme-stats.vercel.app/api/pin/?username=NateBalducciSound&repo=OpenFrameworksSamSpeechGenerator&bg_color=1a1108&title_color=f49c44&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://github.com/NateBalducciSound/OpenFrameworksSamSpeechGenerator) &nbsp;&nbsp;&nbsp;&nbsp; [![Byter](https://github-readme-stats.vercel.app/api/pin/?username=NateBalducciSound&repo=Byter&bg_color=1a1108&title
+[![WidowFlight](https://github-readme-stats.vercel.app/api/pin/?username=NateBalducciSound&repo=WidowFlight&bg_color=1a1108&title_color=f49c44&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://github.com/NateBalducciSound/WidowFlight) &nbsp;&nbsp;&nbsp;&nbsp; [![Healthy Zoo](https://github-readme-stats.vercel.app/api/pin/?username=NateBalducciSound&repo=HealthyZoo&bg_color=1a1108&title_color=f49c44&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://github.com/NateBalducciSound/HealthyZoo) &nbsp;&nbsp;&nbsp;&nbsp; [![SAM Speech Generator](https://github-readme-stats.vercel.app/api/pin/?username=NateBalducciSound&repo=OpenFrameworksSamSpeechGenerator&bg_color=1a1108&title_color=f49c44&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://github.com/NateBalducciSound/OpenFrameworksSamSpeechGenerator) &nbsp;&nbsp;&nbsp;&nbsp; [![Byter](https://github-readme-stats.vercel.app/api/pin/?username=NateBalducciSound&repo=Byter&bg_color=1a1108&title_color=f49c44&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://github.com/NateBalducciSound/Byter) &nbsp;&nbsp;&nbsp;&nbsp; [![CHEWS Component](https://github-readme-stats.vercel.app/api/pin/?username=NateBalducciSound&repo=CHEWs-Component-&bg_color=1a1108&title_color=f49c44&text_color=999999&icon_color=52E0B2&border_color=3d2b1a)](https://github.com/NateBalducciSound/CHEWs-Component-)
