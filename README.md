@@ -33,7 +33,7 @@ Currently: **Programming & Software Design Lead** on [**Healthy Zoo**](https://g
   </tr>
   <tr>
     <td align="center">Audio</td>
-    <td align="center">FMOD · Wwise · C# DSP · GDScript Audio</td>
+    <td align="center">Wwise · C# DSP · GDScript Audio</td>
   </tr>
   <tr>
     <td align="center">Languages</td>
